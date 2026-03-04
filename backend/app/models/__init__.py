@@ -1,0 +1,3 @@
+from app.models.conversation import ConversationMessage
+
+__all__ = ["ConversationMessage"]
